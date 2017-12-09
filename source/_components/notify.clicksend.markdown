@@ -36,6 +36,7 @@ Configuration variables:
 * **username** (Required): Your `Username`.
 * **api_key** (Required): Your `API Key`.
 * **recipient** (Required): Your phone no. This is where you want to send your notification SMS messages. eg: `09171234567`
+* **sender** (Optional): Sender ID. This is where the message will appear to come from. eg: 'HomeAssistant'
 
 
 To use notifications, please see the [getting started with automation page](https://home-assistant.io/getting-started/automation/).
